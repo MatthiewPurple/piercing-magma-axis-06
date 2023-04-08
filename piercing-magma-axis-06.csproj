@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <RootNamespace>piercing_magma_axis_including_repel_06</RootNamespace>
-    <AssemblyName>piercing_magma_axis_including_repel_06</AssemblyName>
+    <RootNamespace>piercing_magma_axis_no_repel_06</RootNamespace>
+    <AssemblyName>piercing_magma_axis_no_repel_06</AssemblyName>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
